@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">최선이 반복되면 최고가 된다 윤지환입니다</h1>
 <h3 align="center">조직.프로젝트의 목표가 무엇인지 정확이 인지하며 목표를 향해 돌진합니다.</h3>
 
-- 🤝Contact **protmxk@naver.com**
+- 🤝Contact 
 
-- ⚡ Favorite Quote **Life begins at the end of your comfort zone**
+- ⚡ Favorite Quote: **Life begins at the end of your comfort zone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
