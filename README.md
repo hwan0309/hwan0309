@@ -25,7 +25,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
    <div align=center> 
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/ReactNative--3776AB?style=for-the-badge&logo=ReactNative&logoColor=white">
+          <img src="https://img.shields.io/badge/ReactNative-3776AB?style=for-the-badge&logo=ReactNative&logoColor=white">
           <img src="https://img.shields.io/badge/typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -34,7 +34,6 @@
           <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
           <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          
            <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div>
