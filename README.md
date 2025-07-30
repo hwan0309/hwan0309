@@ -1,8 +1,7 @@
 
  
 
-<h1 align="center">최선이 반복되면 최고가 된다 윤지환입니다</h1>
-<h3 align="center">조직.프로젝트의 목표가 무엇인지 정확히 인지하며 목표를 향해 돌진합니다.</h3>
+<h1 align="center">최선이 반복되면 최고가 된다 윤지환입니다</h1>
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
